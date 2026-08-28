@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=715&height=44&lines=Developer%20%2F%20turning%20ideas%20into%20git%20push%60%60%20%20%3B);Still%20npm%20install-ing%20my%20way%20through%20life" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=715&height=44&lines=Developer%20%7C%20turning%20ideas%20into%20git%20push%60%60%20%20%3B);Still%20npm%20install-ing%20my%20way%20through%20life" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
